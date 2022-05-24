@@ -174,7 +174,7 @@ https://developer.aiming-inc.com/unity/maya-normal-uv-unity-shader/
 <br>
 
 ## 受賞歴
-NEWVIEW CYPHER ベストプレイヤー賞受賞 (2022年)
+NEWVIEW CYPHER ベストプレイヤー賞受賞 (2020年)
    - 作品 : [うんちゃんタワー](https://game-creators.camp/works/wvEZmYmw6og4KsL7Y5hL)
 
 <br>
@@ -183,7 +183,7 @@ NEWVIEW CYPHER ベストプレイヤー賞受賞 (2022年)
 Unity向けのシェーダーの技術書を執筆しました。<br>
 [ShaderGraph CookBook](https://zenn.dev/r_ngtm/books/shadergraph-cookbook)<br>
 
-記事 : https://r-ngtm.hatenablog.com/entry/2021/04/08/051231?_ga=2.90599258.1322424107.1653405968-1823552566.1653405968<br>
+記事 : https://r-ngtm.hatenablog.com/entry/2021/04/08/051231<br>
 
 <br>
 
