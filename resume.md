@@ -73,9 +73,6 @@
 # 職務経歴
 
 ## 2022/04 ～ 現在 : A社
-
-<br>
-
 ### 主な職務
 - 汎用キャラシェーダー開発 <br>
 - Maya向けのツール開発(MEL) <br>
@@ -101,7 +98,6 @@ https://developer.aiming-inc.com/unity/maya-normal-uv-unity-shader/
 <br>
 
 ## 2014/04 ～ 2022/03: L社
-
 ### 主な職務
 - Unity C#によるインゲームのロジック実装
 - Unityエディタ拡張によるツール開発<br>
@@ -155,23 +151,46 @@ https://developer.aiming-inc.com/unity/maya-normal-uv-unity-shader/
 
 # 個人活動
 
+## 課外活動
+|期間|概要|URL|
+|:--|:--|:--|
+|2022.02 ~ 2022.04| CyberAgent Graphics Academy | [【ふりかえり】CyberAgent Graphics Academy に参加しました](https://www.bing.com/ck/a?!&&p=f6d8be93987c3f1bbfcf8ee34b10879ed5f920e963958cf82b599dcb88e8f025JmltdHM9MTY1MzQwNDI5OCZpZ3VpZD1jNTY2YThjOC1kZGJjLTQ5MzItOTAwNi0zMzk0ZjRlMDk4NzgmaW5zaWQ9NTI4NA&ptn=3&fclid=f24cd741-db71-11ec-a0ef-b0b1a29fd8d7&u=a1aHR0cHM6Ly9yLW5ndG0uaGF0ZW5hYmxvZy5jb20vZW50cnkvMjAyMi8wNC8yNS8yMjQ0MzE&ntb=1)
+|2019.09 ~ 2020.05|  FLYPOT.LLC エフェクト講座 | 作品例 : https://www.youtube.com/watch?v=cWvFEpT-xhs | 
+<br>
+
+## ゲーム開発 
+- [Unity1Week 「そろえる」に参加しました](https://note.com/kamosoba49/n/n53d8dd14c082)
+- [Unity1週間ゲームジャム「空中キックボール」開発記録](https://note.com/kamosoba49/n/n8a08bd6b26e5)
+
+<br>
+
 ## 登壇暦
 [「HoudiniとUnity ShaderGraphで作る Sci-Fi シールド表現」開催（ボーンデジタル）](https://cgworld.jp/news/event/2007-houdiniunity.html)
 
 <br>
 
 ## 受賞歴
-- NEWVIEW CYPHER ベストプレイヤー賞受賞 (2022年)
+NEWVIEW CYPHER ベストプレイヤー賞受賞 (2022年)
    - 作品 : [うんちゃんタワー](https://game-creators.camp/works/wvEZmYmw6og4KsL7Y5hL)
+
+<br>
 
 ## 技術書
 - シェーダーの技術書[ShaderGraph CookBook](https://zenn.dev/r_ngtm/books/shadergraph-cookbook)<br>
 <br>
 
 ## 技術記事 (抜粋)
-(【Unity】ライトプローブの影響を受ける雪エフェクトを作ってみた)[https://zenn.dev/r_ngtm/articles/particle-system-lightprobe]
+- [【Unity】ライトプローブの影響を受ける雪エフェクトを作ってみた](https://zenn.dev/r_ngtm/articles/particle-system-lightprobe)
+- [【Universal RP】SRP Batcher対応の積雪シェーダーを書いてみた](https://qiita.com/r-ngtm/items/06bd5ffd132b1e756a89)
+- [【Unity ShaderLab】NPRなライティングを実装してみる](https://zenn.dev/r_ngtm/articles/unity-shader-npr)
+<br>
+<br>
 
+## エフェクト記事 (抜粋)
+- [【Unity VFXGraph】レーザーエフェクトを作ってみた](https://zenn.dev/r_ngtm/articles/visual-effect-graph-laser)
+- [【Houdini + ShaderGraph】転送装置エフェクト](https://zenn.dev/r_ngtm/articles/shadergraph-teleport-vfx)
+- [【Unity VFX】魔法陣 + 落雷エフェクト 解説](https://zenn.dev/r_ngtm/articles/lightning-vfx)
 
-## その他
-ポートフォリオ : https://rngtm.github.io/Portfolio/
-個人経歴書 : https://meowing-rice-7a8.notion.site/f10210b3e9df44b1846c87bcdd643216
+# その他
+- ポートフォリオ : https://rngtm.github.io/Portfolio/
+- 個人経歴書 : https://meowing-rice-7a8.notion.site/f10210b3e9df44b1846c87bcdd643216
