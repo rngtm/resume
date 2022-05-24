@@ -179,8 +179,12 @@ NEWVIEW CYPHER ベストプレイヤー賞受賞 (2022年)
 
 <br>
 
-## 技術書
-- シェーダーの技術書[ShaderGraph CookBook](https://zenn.dev/r_ngtm/books/shadergraph-cookbook)<br>
+## 技術書執筆
+Unity向けのシェーダーの技術書を執筆しました。<br>
+[ShaderGraph CookBook](https://zenn.dev/r_ngtm/books/shadergraph-cookbook)<br>
+
+記事 : https://r-ngtm.hatenablog.com/entry/2021/04/08/051231?_ga=2.90599258.1322424107.1653405968-1823552566.1653405968<br>
+
 <br>
 
 ## 技術記事 (抜粋)
@@ -190,10 +194,13 @@ NEWVIEW CYPHER ベストプレイヤー賞受賞 (2022年)
 <br>
 <br>
 
+
 ## エフェクト記事 (抜粋)
 - [【Unity VFXGraph】レーザーエフェクトを作ってみた](https://zenn.dev/r_ngtm/articles/visual-effect-graph-laser)
 - [【Houdini + ShaderGraph】転送装置エフェクト](https://zenn.dev/r_ngtm/articles/shadergraph-teleport-vfx)
 - [【Unity VFX】魔法陣 + 落雷エフェクト 解説](https://zenn.dev/r_ngtm/articles/lightning-vfx)
+<br>
+<br>
 
 # その他
 - ポートフォリオ : https://rngtm.github.io/Portfolio/
