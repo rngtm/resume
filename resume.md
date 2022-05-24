@@ -93,7 +93,9 @@
 また、Mayaとの連携が必要になる要件があったのですが、チーム内にMayaのスクリプト(MEL)が書けるアーティストやエンジニアが居なかったため、Mayaの使い方をゼロから勉強し、スクリプトを組むといった業務も行いました。 <br>
 この時に得たノウハウは、会社の開発者ブログにて公開しています。<br>
 
-https://developer.aiming-inc.com/unity/maya-normal-uv-unity-shader/
+https://developer.aiming-inc.com/unity/maya-normal-uv-unity-shader/ <br>
+
+使用ツール : Autodesk Maya, Git, SVN, JetBrains Riderなど
 </details>
 <br>
 
@@ -120,7 +122,7 @@ https://developer.aiming-inc.com/unity/maya-normal-uv-unity-shader/
 プロジェクトの規模は50人程度、クライアントプログラマーの人数は8名ほどで、
 デザイナーと密にコミュニケーションを取りながら、<br>
 シェーダーやShurikenなどを利用した背景表現の実装を担当しました。<br>
-使用ツール : Photoshop, Substance Designer<br>
+使用ツール : Photoshop, Substance Designer, SVN, Git, Visual Studioなど<br>
 </details>
 <br>
 
