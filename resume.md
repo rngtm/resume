@@ -247,9 +247,8 @@ Unity向けのシェーダーの技術書を執筆しました。<br>
 
 
 # ライセンス
-本ドキュメントの目次は以下のソフトウェアを使用して作成されています。
+本ドキュメントの目次は **toc-generator** を使用して作成されています。
 
-toc-generator
 toc-generatorのライセンスの詳細は 
 
 * [Third Party Notices.md](Third%20Party%20Notices.md)
