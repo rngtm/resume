@@ -1,7 +1,7 @@
 ## 目次
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-目次
+Details
 
 - [職務経歴書](#%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8)
   - [職種](#%E8%81%B7%E7%A8%AE)
