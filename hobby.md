@@ -1,4 +1,5 @@
 # 好きなもの
+更新日 : 2022-05-28
 
 ## 目次
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
