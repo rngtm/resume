@@ -4,12 +4,11 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [好きなもの](#%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%82%E3%81%AE)
-  - [趣味](#%E8%B6%A3%E5%91%B3)
-    - [消費型の趣味](#%E6%B6%88%E8%B2%BB%E5%9E%8B%E3%81%AE%E8%B6%A3%E5%91%B3)
-    - [生産型の趣味](#%E7%94%9F%E7%94%A3%E5%9E%8B%E3%81%AE%E8%B6%A3%E5%91%B3)
-    - [その他の趣味](#%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E8%B6%A3%E5%91%B3)
-  - [好きなゲーム](#%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%A0)
+- [趣味](#%E8%B6%A3%E5%91%B3)
+  - [消費型の趣味](#%E6%B6%88%E8%B2%BB%E5%9E%8B%E3%81%AE%E8%B6%A3%E5%91%B3)
+  - [生産型の趣味](#%E7%94%9F%E7%94%A3%E5%9E%8B%E3%81%AE%E8%B6%A3%E5%91%B3)
+  - [その他の趣味](#%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E8%B6%A3%E5%91%B3)
+- [好きなゲーム](#%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%A0)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
