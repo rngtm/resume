@@ -1,21 +1,20 @@
 # 職務経歴書
-
 更新日 : 2022-05-28
 
+<br>
+
 ## 目次
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Details</summary>
 
   - [職種](#%E8%81%B7%E7%A8%AE)
   - [基本情報](#%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1)
-- [スキル](#%E3%82%B9%E3%82%AD%E3%83%AB)
-  - [保有技術](#%E4%BF%9D%E6%9C%89%E6%8A%80%E8%A1%93)
-  - [IDE](#ide)
-  - [言語](#%E8%A8%80%E8%AA%9E)
-  - [DCCツール](#dcc%E3%83%84%E3%83%BC%E3%83%AB)
-  - [言語](#%E8%A8%80%E8%AA%9E-1)
-- [価値観](#%E4%BE%A1%E5%80%A4%E8%A6%B3)
-- [興味・関心](#%E8%88%88%E5%91%B3%E3%83%BB%E9%96%A2%E5%BF%83)
+  - [保有スキル](#%E4%BF%9D%E6%9C%89%E3%82%B9%E3%82%AD%E3%83%AB)
+  - [価値観](#%E4%BE%A1%E5%80%A4%E8%A6%B3)
+  - [興味・関心](#%E8%88%88%E5%91%B3%E3%83%BB%E9%96%A2%E5%BF%83)
 - [職務経歴](#%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4)
   - [2022/04 ～ 現在 : A社](#202204--%E7%8F%BE%E5%9C%A8--a%E7%A4%BE)
     - [主な職務](#%E4%B8%BB%E3%81%AA%E8%81%B7%E5%8B%99)
@@ -35,10 +34,14 @@
   - [技術書執筆](#%E6%8A%80%E8%A1%93%E6%9B%B8%E5%9F%B7%E7%AD%86)
   - [技術記事 (抜粋)](#%E6%8A%80%E8%A1%93%E8%A8%98%E4%BA%8B-%E6%8A%9C%E7%B2%8B)
   - [エフェクト記事 (抜粋)](#%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E8%A8%98%E4%BA%8B-%E6%8A%9C%E7%B2%8B)
-- [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
+  - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
 - [ライセンス](#%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9)
 
+</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+<br>
 
 ## 職種
 クライアントエンジニア<br>
@@ -50,36 +53,52 @@
 [はてなブログ](https://r-ngtm.hatenablog.com/) <br>
 [Qiita](https://qiita.com/r-ngtm) <br>
 [Twitter](https://twitter.com/rn49rn49)<br>
+
 <br>
 
-# スキル
+## 保有スキル
 
-## 保有技術
-- Unity
-- UE4
-- Git
+<details> 
+<summary>ゲームエンジン</summary>
 
-## IDE
-- Visual Studio
-- Visual Studio Code
-- JetBrains Rider
+* Unity
+* UE4
 
-## 言語
-- C#
-- GLSL
-- HLSL
-- C++
-- PowerShell 
+</details>
 
-## DCCツール
+<details> 
+<summary>IDE (開発環境)</summary>
+
+* Visual Studio <br>
+* Visual Studio Code <br>
+* JetBrains Rider <br>
+</details>
+
+
+<details> 
+<summary>プログラミング言語</summary>
+
+* C# <br>
+* GLSL <br>
+* HLSL <br>
+* C++ <br>
+* PowerShell <br> 
+</details>
+
+<details> 
+<summary>DCCツール</summary>
+
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe After Effects
 - Blender 
 - Autodesk Maya
 - SideFX Houdini 
+</details>
 
-## 言語
+<details> 
+<summary>語学</summary>
+
 - 日本語
   - ネイティブ
 
@@ -87,10 +106,11 @@
   - 簡単な日常会話ができる
   - TOEIC: 450点
   - 英語の技術資料や論文を読んで実装に落としこむことが可能です。
+</details>
 
 <br>
 
-# 価値観
+## 価値観
 
 - 自分の持つスキルを活かして、組織やコミュニティ、社会に貢献したい
 
@@ -100,7 +120,7 @@
 
 <br>
 
-# 興味・関心
+## 興味・関心
 
 - グラフィックスに関係する開発業務に携わりたい
 
@@ -126,6 +146,7 @@
 
 <details>
 <summary>職務例: 汎用キャラシェーダー開発</summary>
+
 私が入社した時、チーム内では機能が少し違うだけの数十個ものキャラシェーダーが使われておりました。 <br>
 シェーダーが分かれていると、機能追加が困難なので、<br>
 シェーダーの統一化を自分から提案し、6日ほどでシェーダーを1つにまとめました。<br>
@@ -157,6 +178,7 @@ https://developer.aiming-inc.com/unity/maya-normal-uv-unity-shader/ <br>
 
 <details>
 <summary>職務例: ソーシャルゲームにおける演出実装</summary>
+
 大型のモバイルゲーム案件にて、<br>
 背景シェーダーやエフェクト実装などを担当しました。<br>
 プロジェクトの規模は50人程度、クライアントプログラマーの人数は8名ほどで、
@@ -240,10 +262,11 @@ Unity向けのシェーダーの技術書を執筆しました。<br>
 <br>
 <br>
 
-# その他
+## その他
 - ポートフォリオ : https://rngtm.github.io/Portfolio/
 - 個人経歴書 : https://meowing-rice-7a8.notion.site/f10210b3e9df44b1846c87bcdd643216
 
+<br>
 
 # ライセンス
 本ドキュメントの目次は **toc-generator** を使用して作成されています。
