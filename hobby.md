@@ -1,3 +1,6 @@
+# 好きなもの
+
+## 目次
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -9,8 +12,6 @@
   - [好きなゲーム](#%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%A0)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# 好きなもの
 
 ## 趣味
 ### 消費型の趣味
