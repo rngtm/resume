@@ -56,9 +56,17 @@
 ## 好きなゲーム
 - 大乱闘スマッシュブラザーズ SPECIAL
 - 星のカービィスーパーデラックス
-- MONSTER HUNTER
+- MONSTER HUNTERシリーズ
+- Final Fantasy 7 Remake
+- テイルズシリーズ
+    - Tales of Arise
+    - Tales of Phantasia
+    - Tales of Eternia
+    - Tales of Hearts
 - スターフォックス64
-- グラディウスシリーズ
+- シューティングゲーム
+    - グラディウス
+- メタルギアソリッドV ファントムペイン
 - バイオハザードシリーズ
     - バイオバザード 4 など
 - メトロイドシリーズ
@@ -73,11 +81,13 @@
     - チュウニズム
 - ドラゴンクエストシリーズ
     - ドラゴンクエスト 7 
-- Final Fantasy 7 Remake
 - ヘブンバーンズレッド 
 - Vampire Survivors
 - Ace Combat シリーズ
 - テトリス
 - ルミネス
-- ラチェットアンドクランクシリーズ
+- ぷよぷよ
+- ラチェットアンドクランク
+- クラッシュバンディクー
 - ドンキーコング64
+- Getting over It
