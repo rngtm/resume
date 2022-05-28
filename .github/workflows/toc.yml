@@ -9,3 +9,4 @@ jobs:
         with: 
           TOC_TITLE: 
           TARGET_PATHS: resume.md 
+          FOLDING: true

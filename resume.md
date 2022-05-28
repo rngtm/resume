@@ -52,34 +52,49 @@
 [Twitter](https://twitter.com/rn49rn49)<br>
 <br>
 
-# スキル
+# 保有スキル
 
-## 保有技術
-- Unity
-- UE4
-- Git
+<details> 
+<summary>ゲームエンジン</summary>
 
-## IDE
-- Visual Studio
-- Visual Studio Code
-- JetBrains Rider
+* Unity
+* UE4
 
-## 言語
-- C#
-- GLSL
-- HLSL
-- C++
-- PowerShell 
+</details>
 
-## DCCツール
+<details> 
+<summary>IDE (開発環境)</summary>
+
+* Visual Studio <br>
+* Visual Studio Code <br>
+* JetBrains Rider <br>
+</details>
+
+
+<details> 
+<summary>プログラミング言語</summary>
+
+* C# <br>
+* GLSL <br>
+* HLSL <br>
+* C++ <br>
+* PowerShell <br> 
+</details>
+
+<details> 
+<summary>DCCツール</summary>
+
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe After Effects
 - Blender 
 - Autodesk Maya
 - SideFX Houdini 
+</details>
 
-## 言語
+<details> 
+<summary>語学</summary>
+
 - 日本語
   - ネイティブ
 
@@ -87,6 +102,7 @@
   - 簡単な日常会話ができる
   - TOEIC: 450点
   - 英語の技術資料や論文を読んで実装に落としこむことが可能です。
+</details>
 
 <br>
 
@@ -126,6 +142,7 @@
 
 <details>
 <summary>職務例: 汎用キャラシェーダー開発</summary>
+
 私が入社した時、チーム内では機能が少し違うだけの数十個ものキャラシェーダーが使われておりました。 <br>
 シェーダーが分かれていると、機能追加が困難なので、<br>
 シェーダーの統一化を自分から提案し、6日ほどでシェーダーを1つにまとめました。<br>
@@ -157,6 +174,7 @@ https://developer.aiming-inc.com/unity/maya-normal-uv-unity-shader/ <br>
 
 <details>
 <summary>職務例: ソーシャルゲームにおける演出実装</summary>
+
 大型のモバイルゲーム案件にて、<br>
 背景シェーダーやエフェクト実装などを担当しました。<br>
 プロジェクトの規模は50人程度、クライアントプログラマーの人数は8名ほどで、
