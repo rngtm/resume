@@ -162,7 +162,7 @@ https://developer.aiming-inc.com/unity/maya-normal-uv-unity-shader/ <br>
 <br>
 
 # 今後の目標と、現在の取り組みの相関
-[]("drawio/objective.drawio.svg")
+![](./drawio/objective.drawio.png)
 
 
 ### 執筆暦 (業務)
