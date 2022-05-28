@@ -4,6 +4,8 @@
 ## 目次
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
 
   - [職種](#%E8%81%B7%E7%A8%AE)
   - [基本情報](#%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1)
@@ -32,6 +34,7 @@
 - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
 - [ライセンス](#%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9)
 
+</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 職種
