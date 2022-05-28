@@ -5,7 +5,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <details>
-<summary>Table of Contents</summary>
+<summary>Details</summary>
 
   - [職種](#%E8%81%B7%E7%A8%AE)
   - [基本情報](#%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1)
