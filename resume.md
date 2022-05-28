@@ -1,11 +1,14 @@
 # 職務経歴書
 更新日 : 2022-05-28
 
+<br>
+
 ## 目次
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <details>
-<summary>Details</summary>
+<summary>Table of Contents</summary>
 
   - [職種](#%E8%81%B7%E7%A8%AE)
   - [基本情報](#%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1)
@@ -37,6 +40,9 @@
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+
+<br>
+
 ## 職種
 クライアントエンジニア<br>
 <br>
@@ -47,9 +53,10 @@
 [はてなブログ](https://r-ngtm.hatenablog.com/) <br>
 [Qiita](https://qiita.com/r-ngtm) <br>
 [Twitter](https://twitter.com/rn49rn49)<br>
+
 <br>
 
-# 保有スキル
+## 保有スキル
 
 <details> 
 <summary>ゲームエンジン</summary>
@@ -103,7 +110,7 @@
 
 <br>
 
-# 価値観
+## 価値観
 
 - 自分の持つスキルを活かして、組織やコミュニティ、社会に貢献したい
 
@@ -113,7 +120,7 @@
 
 <br>
 
-# 興味・関心
+## 興味・関心
 
 - グラフィックスに関係する開発業務に携わりたい
 
@@ -255,10 +262,11 @@ Unity向けのシェーダーの技術書を執筆しました。<br>
 <br>
 <br>
 
-# その他
+## その他
 - ポートフォリオ : https://rngtm.github.io/Portfolio/
 - 個人経歴書 : https://meowing-rice-7a8.notion.site/f10210b3e9df44b1846c87bcdd643216
 
+<br>
 
 # ライセンス
 本ドキュメントの目次は **toc-generator** を使用して作成されています。
