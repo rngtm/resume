@@ -1,5 +1,14 @@
 # 職務経歴書
-更新日 : 2022-05-28
+更新日 : 2022-09-17
+
+<br>
+
+## 更新履歴
+
+|更新日|内容|
+|:---|:---|
+|2022.09.17|[個人活動の追加 (CA.unity #5 登壇)](#課外活動)|
+|2022.05.28|職務経歴の追加(A社)|
 
 <br>
 
@@ -218,6 +227,7 @@ https://developer.aiming-inc.com/unity/maya-normal-uv-unity-shader/
 ## 課外活動
 |期間|概要|URL|
 |:--|:--|:--|
+|2022.09.16|[CA.unity #5](https://meetup.unity3d.jp/jp/events/1373) 登壇|[キャラクター向け汎用シェーダーを作った話 (スライド)](https://docs.google.com/presentation/d/1JumB7W5a00RhJyJ22rcaCCQXpBTXcc-Wf0T6dGrJCA0/edit#slide=id.g15573b36140_3_2)|
 |2022.02 ~ 2022.04| CyberAgent Graphics Academy | [【ふりかえり】CyberAgent Graphics Academy に参加しました](https://www.bing.com/ck/a?!&&p=f6d8be93987c3f1bbfcf8ee34b10879ed5f920e963958cf82b599dcb88e8f025JmltdHM9MTY1MzQwNDI5OCZpZ3VpZD1jNTY2YThjOC1kZGJjLTQ5MzItOTAwNi0zMzk0ZjRlMDk4NzgmaW5zaWQ9NTI4NA&ptn=3&fclid=f24cd741-db71-11ec-a0ef-b0b1a29fd8d7&u=a1aHR0cHM6Ly9yLW5ndG0uaGF0ZW5hYmxvZy5jb20vZW50cnkvMjAyMi8wNC8yNS8yMjQ0MzE&ntb=1)
 |2019.09 ~ 2020.05|  FLYPOT.LLC エフェクト講座 | 作品例 : https://www.youtube.com/watch?v=cWvFEpT-xhs | 
 <br>
