@@ -7,6 +7,7 @@
 
 |更新日|内容|
 |:---|:---|
+|2023.05.07|[個人活動の追加 (Unity URP完全に理解した勉強会へ登壇)](#課外活動)|
 |2023.12.07|[職務経歴の追加(C社)](#職務経歴)|
 |2023.05.07|[個人活動の追加 (Unityデザイナーズバイブル寄稿)](#課外活動)|
 |2023.05.07|[職務経歴の追加(C社)](#職務経歴)|
@@ -193,6 +194,7 @@ UIブラーの実装には、ScriptableRenderContext.DrawRenderers や CommandBu
 
 </details>
 
+
 ## 2022/04 ～ 2022/12 : A社
 ### 主な職務
 - 汎用キャラシェーダー開発 <br>
@@ -279,6 +281,7 @@ https://developer.aiming-inc.com/unity/maya-normal-uv-unity-shader/
 ## 課外活動
 |期間|概要|URL|
 |:--|:--|:--|
+|2024.02.02|[Unity URP 完全に理解した勉強会](https://meetup.unity3d.jp/jp/events/1416)に、「URPのシェーダーの書き方を理解しよう」というタイトルでLTをしてきました。| イベントページ : https://meetup.unity3d.jp/jp/events/1416 <br> スライド : https://rngtm.github.io/Unity-URP-Kanzen-Rikai-Event-Slide |
 |2023.05.07|Unityデザイナーズバイブル 寄稿 <br>「Houdiniを利用した手書きエフェクトのメッシュ化」| https://r-ngtm.hatenablog.com/entry/2023/05/07/205800 |
 |2022.09.16|[CA.unity #5](https://meetup.unity3d.jp/jp/events/1373) 登壇|[キャラクター向け汎用シェーダーを作った話 (スライド)](https://docs.google.com/presentation/d/1JumB7W5a00RhJyJ22rcaCCQXpBTXcc-Wf0T6dGrJCA0/edit#slide=id.g15573b36140_3_2)|
 |2022.02 ~ 2022.04| CyberAgent Graphics Academy | [【ふりかえり】CyberAgent Graphics Academy に参加しました](https://www.bing.com/ck/a?!&&p=f6d8be93987c3f1bbfcf8ee34b10879ed5f920e963958cf82b599dcb88e8f025JmltdHM9MTY1MzQwNDI5OCZpZ3VpZD1jNTY2YThjOC1kZGJjLTQ5MzItOTAwNi0zMzk0ZjRlMDk4NzgmaW5zaWQ9NTI4NA&ptn=3&fclid=f24cd741-db71-11ec-a0ef-b0b1a29fd8d7&u=a1aHR0cHM6Ly9yLW5ndG0uaGF0ZW5hYmxvZy5jb20vZW50cnkvMjAyMi8wNC8yNS8yMjQ0MzE&ntb=1)
